@@ -9,3 +9,5 @@ Database: PostgreSQL
 
 ORM: typeorm
 
+#こだわり
+トークンを利用して各操作の前に認証することでログインしていないユーザーの操作を阻止
