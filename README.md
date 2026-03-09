@@ -6,13 +6,13 @@
 
 ##  使用した技術
 
-Framework: NestJS
+- **Framework** : NestJS
 
-Language: TypeScript
+- **Language** : TypeScript
 
-Database: PostgreSQL
+- **Database** : PostgreSQL
 
-ORM: typeorm
+- **ORM** : typeorm
 
 
 
